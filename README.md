@@ -3,7 +3,7 @@
 ### It contains educational/training content contributed by various domain experts who participated in Agents of Change workshops.
 
 
-#### Please feel free to contribute miscellaneous content to this repository anytime by writing us at contact@iycn.in
+#### Please feel free to contribute miscellaneous content to this repository anytime by writing to us at contact@iycn.in
 
 
 ## Opportunities for Youth In Circular Economy
