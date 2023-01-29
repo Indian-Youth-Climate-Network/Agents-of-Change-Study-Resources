@@ -1,4 +1,4 @@
-## This repository is part of IYCN's Knowlegde Center.
+## This repository is part of IYCN's Knowlegde Centre.
  
 ### It contains educational/training content contributed by various domain experts who participated in Agents of Change workshops.
 
