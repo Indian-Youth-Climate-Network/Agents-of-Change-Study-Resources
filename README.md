@@ -1,5 +1,6 @@
-# Agents-of-Change-Study-Resources
-Agents of Change Study Resources
+## This repository is part of IYCN's Knowlegde Center.
+ 
+### It contains educational/training content contributed by various domain experts who participated in Agents of Change workshops.
 
 
-## This is a Knowlegde Repository of Reference material Contributed by various domain experts who participated in Agents of Change - Youth Empowerements towards Circular Economy
+#### Please feel free to contribute miscellaneous content to the repository anytime by writing us at contact@iycn.in
