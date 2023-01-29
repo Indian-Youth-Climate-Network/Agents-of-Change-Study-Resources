@@ -10,7 +10,7 @@
 
 IYCN has partnered with various organisations and companies to create opportunities for young people to gain practical experience in various sectors of Circular Economy such as Textile, Agriculture, Plastic, E-waste, Logistics, Green Buildings, Municipal Solid Waste, Research etc.
 
-Apply Here: https://bit.ly/circular-economy-jobs
+Explore Here: https://bit.ly/circular-economy-jobs
 
 ## How to join the Network?
 Apply here: https://bit.ly/iycn-members
