@@ -14,3 +14,8 @@ Explore Here: https://bit.ly/circular-economy-jobs
 
 ## How to join the Network?
 Apply here: https://bit.ly/iycn-members
+
+
+## Quick Download
+
+[Referenece Material - Delhi Workshop, January 2023](https://github.com/Indian-Youth-Climate-Network/Agents-of-Change-Study-Resources/tree/main/Aoc_Delhi-Jan-2023)
