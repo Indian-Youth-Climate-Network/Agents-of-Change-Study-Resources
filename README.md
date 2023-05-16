@@ -6,16 +6,18 @@
 #### Please feel free to contribute miscellaneous content to this repository anytime by writing to us at contact@iycn.in
 
 
-## Opportunities for Youth In Circular Economy
+## Podcast Series: IYCN Presents - A Circular Revolution
 
-IYCN has partnered with various organisations and companies to create opportunities for young people to gain practical experience in various sectors of Circular Economy such as Textile, Agriculture, Plastic, E-waste, Logistics, Green Buildings, Municipal Solid Waste, Research etc.
+Get ready to be inspired by 'A Circular Revolution' - the podcast that celebrates the power of Indian youth to drive sustainability and innovation in the Circular Economy. In each episode, join host Ankita Pahwa (@ankita.pahwa) as she speaks to an 'Agent of Change', conscientiously identified by the Indian Youth Climate Network. Whether you're a young person looking to make a difference, or simply someone who wants to learn more about the circular economy and sustainable living, this podcast is for you. Join us on this journey of transformation and discover the power of youth-led change
 
-Explore Here: https://bit.ly/circular-economy-jobs
+Listen to All Episodes: https://www.htsmartcast.com/business-podcasts/a-circular-revolution/
 
 ## How to join the Network?
 Apply here: https://bit.ly/iycn-members
 
 
-## Quick Download
+## Quick Downloads
 
-[Referenece Material - Delhi Workshop, January 2023](https://github.com/Indian-Youth-Climate-Network/Agents-of-Change-Study-Resources/tree/main/Aoc_Delhi-Jan-2023)
+[Referenece Material - Delhi Training Workshop, January 2023](https://github.com/Indian-Youth-Climate-Network/Agents-of-Change-Study-Resources/tree/main/Aoc_Delhi-Jan-2023)
+
+[Referenece Material - Mumbai Training Workshop, May 2023](https://github.com/Indian-Youth-Climate-Network/Agents-of-Change-Study-Resources/tree/main/Aoc_Mumbai-May-2023)
