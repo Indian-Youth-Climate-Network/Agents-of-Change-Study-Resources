@@ -2,6 +2,8 @@
  
 ### It contains educational/training content contributed by various domain experts who participated in Agents of Change workshops.
 
+The EU’s Resource Efficiency Initiative (EU-REI-II) initiated an initiative with IYCN to sensitise and disseminate knowledge on the circular economy to the youth in the country with an aim to empower them to take action by identifying key areas of engagement. 6 workshops are planned across the country to train 250 youth and 10 youth CE initiatives have been identified.
+
 
 #### Please feel free to contribute miscellaneous content to this repository anytime by writing to us at contact@iycn.in
 
